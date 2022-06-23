@@ -1,6 +1,10 @@
-# <p align="center">Hello world!</p>
+# <p align="center">A propos de KevFR</p>
+* ✍️ KevFR
+* 🚩 Français / Anglais 
+* 🔵 Bleu Cyan
+* 🎂 27 Décembre
+* 🎵 Bill Wurtz
+* 💻 Windows XP/Vista/7/8.1
+* 🎮 Minecraft
 
-* Youtubeur Français & Anglais
-* Passionée d'informatique et de jeux-vidéos
-* Adore les chansons de Bill Wurtz
-
+french tech youtuber, btw.
