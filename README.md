@@ -3,7 +3,7 @@
 
 <hr>
 
-* :smiley: Je réalise des programmes et des vidéos sur Youtube pour le fun
+* :smiley: Créateur de vidéo sur Internet et étudiant 
 * :keyboard: J'aime l'informatique et les jeux-vidéos 
 
 ## Mes réseaux sociaux
