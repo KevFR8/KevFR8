@@ -1,16 +1,20 @@
 
-# KevFR
+# About me
 
 <hr>
 
-* :smiley: Créateur de vidéo sur Internet et étudiant 
-* :keyboard: J'aime l'informatique et les jeux-vidéos 
-
+- :fr:French/English
+- :keyboard:HTML/CSS/JS 
+- :robot:Android 
+- :green_heart:Windows Vista
+- :musical_note:Bill Wurtz
+- :video_game:Simpsons Hit And Run
 
 ## Mes réseaux sociaux
 
-* [FireAqua](https://kevfr8.github.io)
-* [Youtube](https://www.youtube.com/channel/UCCPSET9zTIvoaK-WwoAe-Gw)
+* :fire:[FireAqua](https://kevfr8.github.io)
+* :video_camera:[Youtube](https://www.youtube.com/channel/UCCPSET9zTIvoaK-WwoAe-Gw)
 
-
+© kCorp's. All rights reserved.
 <hr>
+ 
