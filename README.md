@@ -9,6 +9,6 @@
 * :fire:[FireAqua](https://fireaqua-team.github.io/)
 * :video_camera:[Youtube](https://www.youtube.com/channel/UCCPSET9zTIvoaK-WwoAe-Gw)
 
-© kCorp's. All rights reserved.
+© kCorp. All rights reserved.
 <hr>
  
