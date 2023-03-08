@@ -6,7 +6,7 @@
 - :fr:French/English
 - :keyboard: HTML/CSS 
 ## Another stuff 
-* :fire:[FireAqua](https://fireaqua-team.github.io/)
+* :fire:[FireAqua](https://kcorp-s.github.io/)
 * :video_camera:[Youtube](https://www.youtube.com/channel/UCCPSET9zTIvoaK-WwoAe-Gw)
 
 © kCorp. All rights reserved.
