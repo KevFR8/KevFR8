@@ -1,8 +1,8 @@
 
-<h1> :deciduous_tree:About me </h1>
+<h1>About</h1>
 
-- french dev
-- my website: https://kcorp-s.github.io/
+- 🇫🇷 french
+- 🎮 learn gamedev
 
 </li>
 
