@@ -2,7 +2,8 @@
 <h1>About</h1>
 
 - 🇫🇷 french
-- 🎮 learn gamedev and art
+- 👨‍🎓student
+- 🎮 learn gamedev/art
 
 </li>
 
