@@ -2,7 +2,7 @@
 <h1>About</h1>
 
 - 🇫🇷 french
-- 👨‍🎓student
+- 👨‍🎓high school student (16 y/o)
 - 🎮 learn gamedev/art
 
 </li>
