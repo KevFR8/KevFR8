@@ -10,7 +10,7 @@
 <h2>My skills</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=photoshop,html,css" />
+    <img src="https://skillicons.dev/icons?i=photoshop,premiere,html,css" />
   </a>
 </p>
 
