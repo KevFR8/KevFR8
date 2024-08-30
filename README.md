@@ -4,8 +4,9 @@
 - 🇫🇷 french
 - 👨‍🎓high school student (16 y/o)
 - 🎮 learn gamedev/art
-
 </li>
+
+<a href="kevfr8.github.io/">Click here to get more info about me :)</a>
 
 <h2>My skills</h2>
 <p>
@@ -20,4 +21,5 @@
     <img src="https://skillicons.dev/icons?i=illustrator,godot,cs" />
   </a>
 </p>
+
 
