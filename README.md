@@ -19,7 +19,7 @@
 <h2>What I learn</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=illustrator,godot,cs" />
+    <img src="https://skillicons.dev/icons?i=illustrator,godot" />
   </a>
 </p>
 
