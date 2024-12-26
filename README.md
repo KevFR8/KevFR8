@@ -3,7 +3,7 @@
 
 - 🇫🇷 french
 - 👦he/him
-- 👨‍🎓high school student (16 y/o)
+- 👨‍🎓high school student (17 y/o)
 - 🎮 learn gamedev/art (ui/ux design tho)
 </li>
 
