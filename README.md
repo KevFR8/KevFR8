@@ -4,7 +4,7 @@
 - 🇫🇷 french
 - 👦he/him
 - 👨‍🎓high school student (17 y/o)
-- 🎮 learn gamedev/art (ui/ux design tho)
+  
 </li>
 
 <a href="https://kevfr8.github.io/">Click here to get more info about me :)</a>
