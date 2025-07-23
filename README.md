@@ -3,7 +3,7 @@
 
 - 🇫🇷 french
 - 👦he/him
-- 👨‍🎓high school student (17 y/o)
+- 👨‍🎓student (17 y/o)
   
 </li>
 
