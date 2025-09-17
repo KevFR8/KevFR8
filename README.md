@@ -7,6 +7,6 @@
 * 👨‍🎓student (17 y/o)
 
 
-😉<a href="https://kevfr8.github.io/">more useless information about me!</a>
+😉<a href="https://kevfr8.github.io/"> more useless information about me!</a>
 
 KevFR © 2025
